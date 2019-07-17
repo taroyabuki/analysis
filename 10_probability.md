@@ -34,9 +34,9 @@
 * （理論）確率分布，期待値，分散を求めよ。ヒント：`COMBIN`を使う。
 * （理論）確率分布，期待値，分散を求めよ。ヒント：`BINOM.DIST`を使う。
 * （理論）二項分布の期待値と分散をWikipediaで調べ，n=30，p=0.5の時の値を求めよ。
-* （理論）二項分布の期待値，<img src="https://latex.codecogs.com/gif.latex?%5Csum_%7Bk%3D0%7D%5Enk%5Cbinom%7Bn%7D%7Bk%7Dp%5Ek%281-p%29%5E%7Bn-k%7D" />を数式処理システムで求めよ。得られた式に，n=30，p=1/2を代入せよ。ヒント：Wolfram/Alphaに「`Sum[k Binomial[n, k] p^k (1 - p)^(n - k), {k, 0, n}]`」を問う。
-* （理論）二項分布の分散，<img src="https://latex.codecogs.com/gif.latex?%5Csum_%7Bk%3D0%7D%5En%20%28k-np%29%5E2%5Cbinom%7Bn%7D%7Bk%7Dp%5Ek%281-p%29%5E%7Bn-k%7D" />を数式処理システムで求めよ。得られた式に，n=30，p=1/2を代入せよ。ヒント：Wolfram/Alphaに「`Sum[(k - n p)^2 Binomial[n, k] p^k (1 - p)^(n - k), {k, 0, n}]`」を問う。
-* （理論）二項分布の期待値を紙と鉛筆で求めよ。
+* **（レポート課題）**（理論）二項分布の期待値，<img src="https://latex.codecogs.com/gif.latex?%5Csum_%7Bk%3D0%7D%5Enk%5Cbinom%7Bn%7D%7Bk%7Dp%5Ek%281-p%29%5E%7Bn-k%7D" />を数式処理システムで求めよ。得られた式に，n=30，p=1/2を代入せよ。ヒント：Wolfram/Alphaに「`Sum[k Binomial[n, k] p^k (1 - p)^(n - k), {k, 0, n}]`」を問う。
+* **（レポート課題）**（理論）二項分布の分散，<img src="https://latex.codecogs.com/gif.latex?%5Csum_%7Bk%3D0%7D%5En%20%28k-np%29%5E2%5Cbinom%7Bn%7D%7Bk%7Dp%5Ek%281-p%29%5E%7Bn-k%7D" />を数式処理システムで求めよ。得られた式に，n=30，p=1/2を代入せよ。ヒント：Wolfram/Alphaに「`Sum[(k - n p)^2 Binomial[n, k] p^k (1 - p)^(n - k), {k, 0, n}]`」を問う。
+* **（レポート課題）**（理論）二項分布の期待値を紙と鉛筆で求めよ。
 * **（レポート課題）**（理論）二項分布の分散を紙と鉛筆で求めよ。
 
 **問題** 当たる確率が0.1のガチャを10回引いて、1回も当たらない確率をExcelで求めよ。
