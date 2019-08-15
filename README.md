@@ -38,7 +38,7 @@
 * [テンプレート](template.docx)（余白やフォントなど，見た目に関するものを変えてはいけない。）
 * 提出先：https://docs.google.com/forms/d/e/1FAIpQLSc2SJqighTDQOjIUQb6dkerGdCJyGWj3NudIuEEuhLoQ0tudg/viewform
 * 締切：7月31日(水)
-* レポートを再提出しなければならない学生の学生番号を8月8日(木)までにここに掲載する。再提出の締切は8月14日(水)
+* レポートを再提出しなければならない学生の学生番号を8月8日(木)までにここに掲載した。再提出の締切は8月14日(水)
 
 注意
 
