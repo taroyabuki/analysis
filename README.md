@@ -10,7 +10,16 @@
 
 教科書を買って損はないが，急いで買わずにようすを見てもいい．
 
-## 計画
+## 進め方
+
+1. Office.comに大学のアカウント（...@s.chibakoudai.jp）でログインする．
+1. Excelの新しいブックを作る．（Excel→New blank workbook）
+1. 資料（下の表に掲載）を別のタブで開き全てコピーする（Ctrl-A，Ctrl-C）．
+1. 2で作ったブックに，3でコピーしたデータを貼り付ける．
+1. 作業する．
+1. 右上の「共有」をクリック→「リンクのコピー」をクリックしてコピーしたURLを，ブックのURLを[報告フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfYftzL5gx3VcAESiERnUJt2LtRalTrsMjs-RHVlQmQWUJWKA/viewform)で報告する．
+
+### 資料と報告締切
 
 回|日付|資料|報告締切
 -:|--|--|--
@@ -26,15 +35,6 @@
 10|7/20|
 11|7/27|
 12|8/3|
-
-## 進め方
-
-1. Office.comに大学のアカウント（...@s.chibakoudai.jp）でログインする．
-1. Excelの新しいブックを作る．（Excel→New blank workbook）
-1. 資料を別のタブで開き全てコピーする（Ctrl-A，Ctrl-C）．
-1. 2で作ったブックに，3でコピーしたデータを貼り付ける．
-1. 作業する．
-1. 右上の「共有」をクリック→「リンクのコピー」をクリックしてコピーしたURLを，ブックのURLを[報告フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfYftzL5gx3VcAESiERnUJt2LtRalTrsMjs-RHVlQmQWUJWKA/viewform)で報告する．
 
 ## 質問・要望
 
