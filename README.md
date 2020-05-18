@@ -26,7 +26,7 @@
 
 回|日付|Excelのブック|報告締切
 -:|--|--|--
-1|5/18|[01](excel/01.xlsx)|5日後の24:00
+1|5/18|[01](https://github.com/taroyabuki/analysis/raw/master/excel/01.xlsx)|5日後の24:00
 2|5/25|
 3|6/1|
 4|6/8|
