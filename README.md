@@ -12,22 +12,29 @@
 
 ## 進め方
 
-1. Excelのブックをダウンロードする．
+1. Excelのブック（クラウド版ではない）をダウンロードする．
 1. 作業する．（5の後でブラウザ上で作業するのも可）
 1. [Office.com](https://www.office.com)に大学のアカウント（...@s.chibakoudai.jp）でログインする．
 1. OneDriveを開く．
 1. 作業後のファイルをアップロードし，クリックして開く（ブラウザ上で）．
-1. 右上の「共有」をクリック→「リンクのコピー」をクリックしてコピーしたURLを，ブックのURLを[報告フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfYftzL5gx3VcAESiERnUJt2LtRalTrsMjs-RHVlQmQWUJWKA/viewform)で報告する．
+1. 右上の「共有」をクリック→「リンクのコピー」をクリックしてコピーしたURLを，ブックのURLを報告フォームで報告する．
 
-最初に提示した方法には，スタイルがコピーされないという問題があったので，やり方を変えました．すでに報告した人は，そのままでかまいません．
-クラウド上だけで完結する方法を知っている人がいたら教えてください．
+あまりお勧めしませんが，一応iPadだけでも完結できます．
+
+1. [Office.com](https://www.office.com)に大学のアカウント（...@s.chibakoudai.jp）でログインする．
+1. Excelの新しいブックを作る．
+1. 資料のクラウド版を開き，2で作ったブックにコピーする．
+1. 作業終了後，右上の「共有」をクリック→「リンクのコピー」をクリックしてコピーしたURLを，ブックのURLを報告フォームで報告する．
+
+ただしこの方法では，シートのスタイル（色など）がコピーされないようです．
+もう少しうまくやる方法を知っている人がいたら教えてください．
 
 ### 資料と報告締切
 
-回|日付|Excelのブック|報告締切
--:|--|--|--
-1|5/18|[01](https://github.com/taroyabuki/analysis/raw/master/excel/01.xlsx)|5日後の24:00
-2|5/25|
+回|日付|Excelのブック|クラウド版（非推奨）|できあがり|報告フォーム|報告締切
+-:|--|--|--|--|--|--
+1|5/18|[01.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/01.xlsx)|[01](https://1drv.ms/x/s!ApRXofdG1OMPmEt5uRkUj1e9NWYh?e=QyNWWJ)|[01.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/01.pdf)|[第1回](https://docs.google.com/forms/d/e/1FAIpQLSfYftzL5gx3VcAESiERnUJt2LtRalTrsMjs-RHVlQmQWUJWKA/viewform)|5日後の24:00
+2|5/25|[02.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/02.xlsx)|[02](https://1drv.ms/x/s!ApRXofdG1OMPmFNm4g29H1pPvPj7?e=gixX5R)|[02.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/02.pdf)|[第2回](https://docs.google.com/forms/d/e/1FAIpQLSesQN7ycXQovb38V1QJhjxsuDNcGDzkNKBiAJ_M61HtzVXbbQ/viewform)|5日後の24:00
 3|6/1|
 4|6/8|
 5|6/15|
@@ -41,7 +48,7 @@
 
 ## 質問・要望
 
-[報告フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfYftzL5gx3VcAESiERnUJt2LtRalTrsMjs-RHVlQmQWUJWKA/viewform)を使ってください．
+報告フォームを使ってください．
 このフォームが使えないときは，「taro.yabuki+analysis@it-chiba.ac.jp」にメールを送ってください．
 
 ### FAQ（よくある質問）
