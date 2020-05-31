@@ -31,11 +31,11 @@
 
 ### 資料と報告締切
 
-回|日付|Excelのブック|クラウド版（非推奨）|できあがり|報告フォーム|報告締切
--:|--|--|--|--|--|--
-1|5/18|[01.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/01.xlsx)|[01](https://1drv.ms/x/s!ApRXofdG1OMPmEt5uRkUj1e9NWYh?e=QyNWWJ)|[01.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/01.pdf)|[第1回](https://docs.google.com/forms/d/e/1FAIpQLSfYftzL5gx3VcAESiERnUJt2LtRalTrsMjs-RHVlQmQWUJWKA/viewform)|5日後の24:00
-2|5/25|[02.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/02.xlsx)|[02](https://1drv.ms/x/s!ApRXofdG1OMPmFNm4g29H1pPvPj7?e=gixX5R)|[02.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/02.pdf)|[第2回](https://docs.google.com/forms/d/e/1FAIpQLSesQN7ycXQovb38V1QJhjxsuDNcGDzkNKBiAJ_M61HtzVXbbQ/viewform)|5日後の24:00
-3|6/1|[03.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/03.xlsx)|[03](https://1drv.ms/x/s!ApRXofdG1OMPmFoSFMOI077OLqJy?e=cePpzK)|[03.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/03.pdf)|[第3回](https://docs.google.com/forms/d/e/1FAIpQLSfgntNyKE4bJ3MNijA0tAUtsszimLT2pgIhnctdB-nTBQz64A/viewform)|5日後の24:00
+回|日付|Excelのブック|クラウド版（非推奨）|できあがり|報告フォーム|報告締切|補足
+-:|--|--|--|--|--|--|--
+1|5/18|[01.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/01.xlsx)|[01](https://1drv.ms/x/s!ApRXofdG1OMPmEt5uRkUj1e9NWYh?e=QyNWWJ)|[01.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/01.pdf)|[第1回](https://docs.google.com/forms/d/e/1FAIpQLSfYftzL5gx3VcAESiERnUJt2LtRalTrsMjs-RHVlQmQWUJWKA/viewform)|5日後の24:00|
+2|5/25|[02.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/02.xlsx)|[02](https://1drv.ms/x/s!ApRXofdG1OMPmFNm4g29H1pPvPj7?e=gixX5R)|[02.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/02.pdf)|[第2回](https://docs.google.com/forms/d/e/1FAIpQLSesQN7ycXQovb38V1QJhjxsuDNcGDzkNKBiAJ_M61HtzVXbbQ/viewform)|5日後の24:00|
+3|6/1|[03.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/03.xlsx)|[03](https://1drv.ms/x/s!ApRXofdG1OMPmFoSFMOI077OLqJy?e=cePpzK)|[03.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/03.pdf)|[第3回](https://docs.google.com/forms/d/e/1FAIpQLSfgntNyKE4bJ3MNijA0tAUtsszimLT2pgIhnctdB-nTBQz64A/viewform)|5日後の24:00|[動画解説](https://youtu.be/0pP8QdXHjps)
 4|6/8|
 5|6/15|
 6|6/22|
