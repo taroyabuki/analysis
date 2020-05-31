@@ -35,7 +35,7 @@
 -:|--|--|--|--|--|--
 1|5/18|[01.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/01.xlsx)|[01](https://1drv.ms/x/s!ApRXofdG1OMPmEt5uRkUj1e9NWYh?e=QyNWWJ)|[01.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/01.pdf)|[第1回](https://docs.google.com/forms/d/e/1FAIpQLSfYftzL5gx3VcAESiERnUJt2LtRalTrsMjs-RHVlQmQWUJWKA/viewform)|5日後の24:00
 2|5/25|[02.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/02.xlsx)|[02](https://1drv.ms/x/s!ApRXofdG1OMPmFNm4g29H1pPvPj7?e=gixX5R)|[02.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/02.pdf)|[第2回](https://docs.google.com/forms/d/e/1FAIpQLSesQN7ycXQovb38V1QJhjxsuDNcGDzkNKBiAJ_M61HtzVXbbQ/viewform)|5日後の24:00
-3|6/1|
+3|6/1|[03.xlsx](https://github.com/taroyabuki/analysis/raw/master/excel/03.xlsx)|[03](https://1drv.ms/x/s!ApRXofdG1OMPmFoSFMOI077OLqJy?e=cePpzK)|[03.pdf](https://github.com/taroyabuki/analysis/raw/master/excel/03.pdf)|[第3回](https://docs.google.com/forms/d/e/1FAIpQLSfgntNyKE4bJ3MNijA0tAUtsszimLT2pgIhnctdB-nTBQz64A/viewform)|5日後の24:00
 4|6/8|
 5|6/15|
 6|6/22|
@@ -51,10 +51,10 @@
 ## 質問・要望
 
 報告フォームを使ってください．
-このフォームが使えないときは，「taro.yabuki+analysis@it-chiba.ac.jp」にメールを送ってください．
+フォームが使えないときは，「taro.yabuki+analysis@it-chiba.ac.jp」にメールを送ってください．
 
 ### FAQ（よくある質問）
 
-* 映像はないのか．→文字で書いた方が正確だし効率的だと思います．でも，「どんなやつなのか顔が見たい」という要望については何か考えます．
+* 映像はないのか．→基本的には，文字で書いた方が正確だし効率的だと思います．とはいえ，文字ではわかりにくいだろうと思うところは，動画での説明を用意します．わかりにくかったところを「質問や要望」に具体的に書いてもらえれば，それについて説明する動画を作るかもしれません．
 * Excelの細かいテクニックを教えてほしい．→この講義では，Excelの使い方というよりは，データ解析の考え方を学んでもらいたいです．Excelに特化した話はなるべく避け，Excel以外の表計算ソフトウェア（GoogleシートやLibreOffice）でも活かせる知識・技術を身に付けることが大事です．
 
